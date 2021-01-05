@@ -1,0 +1,91 @@
+.bgd{
+    background-color: #267163;
+}
+@media only screen and (max-width: 1024px){
+   .nav{
+       display: none;
+   }
+ 
+    }
+    @media only screen and (max-width: 1024px){
+        .logo{
+            display: none;
+        }
+         }
+         @media only screen and (min-width: 768px){
+            .abc{
+                display: none;
+                text-align: center;
+               
+            }
+             }
+             .abc{
+                font-weight: bold;
+                font-size: 30px;
+                color: #ffffff;
+             }
+li:hover:not(.active) {
+    background-color:red;
+  
+  }
+  #br{
+      background-color: red;
+  }
+.navbar{
+    padding-top:0px;
+    padding-bottom:0px;
+}
+.navbar-nav .nav-item{
+    padding:4px;
+}
+  .color{
+    background-color: #ffffff;
+  }
+ .bg-color{
+     background-color:#EDEDEF
+ }
+ .bgd-f{
+     background-color: red;
+     border-top-left-radius: 2px;
+     border-bottom-left-radius: 2px;
+ }
+ .borderbtn{
+     border-bottom: 1px dotted#EDEDEF;
+ }
+ .fbgd-footer{
+    background-color:black;
+  
+}
+.f-bgd{
+    background-color: white;
+}
+ /* samachar */
+ .box{
+    position: relative;
+    display: inline-block;
+}
+.box .text{
+    position: absolute;
+    top: 80%;
+    margin: 7px;
+}
+
+ .box1{
+     position: relative;
+     display: inline-block;
+ }
+ .box1 .text1{
+     position: absolute;
+     top: 70%;
+     margin: 7px;
+ }
+ .read{
+     border: none;
+     box-shadow: 2px 2px 30px rgba(158, 156, 156, 0.555);
+     background-color: white;
+ }
+ .read:hover{
+     background-color: red;
+     color: white;
+    
+ }

@@ -1,0 +1,106 @@
+/* about css */
+.txt{
+    margin-top: 200px;
+     font-size: 45px;
+ }
+ .bg-c{
+     background-color: #f8f9fa;
+     margin-top: 100px;
+    
+ }
+ .discover{
+     margin-top: 200px;
+     font-size: 20px;
+     
+ }
+ .row1{
+     border-bottom-left-radius: 7px;
+     border-bottom-right-radius: 7px;
+     box-shadow: 0 8px 6px -6px black;
+ }
+ .row2{
+     border-radius: 7px;
+     box-shadow: 0 8px 6px -6px black;
+ }
+ .row3{
+     border-radius: 7px;
+     box-shadow: 0 8px 6px -6px black;
+    
+ }
+ .companymargin{
+     margin-top: 100px;
+ }
+ .box{
+     width: 300px;
+     box-shadow: 2px 2px 30px rgba(158, 156, 156, 0.055);
+     border-radius: 10px;
+     overflow: hidden;
+    margin: 24px;
+ 
+ }
+ .slide-img{
+     height: 450px;
+ 
+ }
+ .slide-img img{
+     width: 100%;
+     height: 100%;
+     object-fit: cover;
+     box-sizing: border-box;
+ }
+ .type{
+     font-weight: bold;
+     font-size: 20px;
+ }
+ .type a{
+     letter-spacing: 0.5px;
+     margin: 5px 0px;
+     padding-right: 8px;
+ }
+ li{
+     list-style-type: none ;
+ }
+ .slider{
+     width: 100%;
+     height: 100vh;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     
+ }
+ .elec{
+    
+    box-shadow: 0 8px 6px -6px black;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    display: inline-block;
+    margin-top: 100px;
+
+  
+ }
+ .elec .electext{
+     position: absolute;
+     top: 30%;
+     right: 30%;
+  
+ }
+ .electext{
+    
+    font-size: 20px;
+ }
+ .elec .electext1{
+    position: absolute;
+    top: 40%;
+    right: 30%;
+ 
+}
+
+/* footer content */
+.fbgd-footer{
+    background-color:black;
+  
+}
+.f-bgd{
+    background-color: #ededef
+}
